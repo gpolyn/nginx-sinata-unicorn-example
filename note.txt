@@ -1,0 +1,3 @@
+this was all run all root
+rbenv 0.4.0-95-gf71e227
+ruby 2.0.0p451 (2014-02-24 revision 45167) [x86_64-linux]
