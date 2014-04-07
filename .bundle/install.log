@@ -1,0 +1,9 @@
+# Logfile created on 2014-04-06 22:10:28 -0400 by logger.rb/44203
+I, [2014-04-06T22:10:28.868013 #40808]  INFO -- : 0:  kgio (2.9.2) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/kgio-2.9.2.gemspec
+I, [2014-04-06T22:10:28.869058 #40808]  INFO -- : 0:  rack (1.5.2) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/rack-1.5.2.gemspec
+I, [2014-04-06T22:10:28.869506 #40808]  INFO -- : 0:  rack-protection (1.5.2) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-06T22:10:28.869932 #40808]  INFO -- : 0:  raindrops (0.13.0) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/raindrops-0.13.0.gemspec
+I, [2014-04-06T22:10:28.870328 #40808]  INFO -- : 0:  tilt (1.4.1) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/tilt-1.4.1.gemspec
+I, [2014-04-06T22:10:28.870547 #40808]  INFO -- : 0:  sinatra (1.4.4) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-06T22:10:28.870756 #40808]  INFO -- : 0:  unicorn (4.8.2) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@rails4/specifications/unicorn-4.8.2.gemspec
+I, [2014-04-06T22:10:28.870950 #40808]  INFO -- : 0:  bundler (1.5.1) from /Users/gallagherpolyn/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
